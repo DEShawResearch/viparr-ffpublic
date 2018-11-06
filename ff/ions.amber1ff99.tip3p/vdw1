@@ -1,0 +1,11 @@
+[
+   { "type" : "Li+",  "params" : { "sigma" : 2.0259036850511314,  "epsilon" : 0.0183 },  "memo" : "Li+ Aqvist JPC 1990,94,8021. (adapted)" },
+   { "type" : "Na+",  "params" : { "sigma" : 3.3283976109723077,  "epsilon" : 0.00277 },  "memo" : "Na+ Aqvist JPC 1990,94,8021. (adapted)" },
+   { "type" : "K+",  "params" : { "sigma" : 4.736017585634044,  "epsilon" : 0.000328 },  "memo" : "K+ Aqvist JPC 1990,94,8021. (adapted)" },
+   { "type" : "Rb+",  "params" : { "sigma" : 5.266993221645686,  "epsilon" : 0.00017 },  "memo" : "Rb+ Aqvist JPC 1990,94,8021. (adapted)" },
+   { "type" : "Cs+",  "params" : { "sigma" : 6.049202296172903,  "epsilon" : 0.0000806 },  "memo" : "Cs+ Aqvist JPC 1990,94,8021. (adapted)" },
+   { "type" : "F-",  "params" : { "sigma" : 3.1181455134911875,  "epsilon" : 0.061 },  "memo" : "Gough et al. JCC 13,(1992),963." },
+   { "type" : "Cl-",  "params" : { "sigma" : 3.4709414058747616,  "epsilon" : 0.265 },  "memo" : "Fox, JPCB,102,8070,(98),flex.mdl CHCl3" },
+   { "type" : "Br-",  "params" : { "sigma" : 3.9555903085431066,  "epsilon" : 0.32 },  "memo" : "Junmei(?)" },
+   { "type" : "I-",  "params" : { "sigma" : 4.187223975259594,  "epsilon" : 0.4 },  "memo" : "JCC,7,(1986),230;" }
+]

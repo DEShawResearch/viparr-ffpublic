@@ -1,0 +1,5 @@
+{
+   "plugins" : ["bonds", "angles", "vdw1", "exclusions", "mass"],
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "info" : ["spc 3-site water model", "Berendsen et al. in Intermolecular Forces, edited by B. Pullman (Reidel, Dordrecht,1981), p. 331."]
+}

@@ -1,0 +1,14 @@
+[
+   { "type" : "CP1",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "ALLOW   ALI" },
+   { "type" : "CP2",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "ALLOW   ALI" },
+   { "type" : "CP3",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "ALLOW   ALI" },
+   { "type" : "CPT",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.09 },  "memo" : "ALLOW   ARO" },
+   { "type" : "CT1",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "ALLOW   ALI" },
+   { "type" : "CT2",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "ALLOW   ALI" },
+   { "type" : "CT3",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "ALLOW   ALI" },
+   { "type" : "HP",  "params" : { "sigma" : 2.4200372779564177,  "epsilon" : 0.03 },  "memo" : "ALLOW ARO" },
+   { "type" : "N",  "params" : { "sigma" : 3.2963252571192556,  "epsilon" : 0.0001 },  "memo" : "ALLOW   PRO" },
+   { "type" : "NH1",  "params" : { "sigma" : 2.7617860262350518,  "epsilon" : 0.2 },  "memo" : "ALLOW   PEP POL ARO" },
+   { "type" : "O",  "params" : { "sigma" : 2.49451641079295,  "epsilon" : 0.12 },  "memo" : "ALLOW   PEP POL" },
+   { "type" : "OB",  "params" : { "sigma" : 2.49451641079295,  "epsilon" : 0.12 },  "memo" : "ALLOW   PEP POL ARO" }
+]

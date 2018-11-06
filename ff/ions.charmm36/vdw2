@@ -1,0 +1,13 @@
+[
+   { "type" : "Cl- Na+",  "params" : { "sigma" : 3.3239431173816056,  "epsilon" : 0.083875 },  "memo" : "From osmotic pressure calibration, J. Phys.Chem.Lett. 1:183-189" },
+   { "type" : "Cl- K+",  "params" : { "sigma" : 3.635757668730725,  "epsilon" : 0.114236 },  "memo" : "From osmotic pressure calibration, J. Phys.Chem.Lett. 1:183-189" },
+   { "type" : "Na+ OC",  "params" : { "sigma" : 2.8776028595932956,  "epsilon" : 0.07502 },  "memo" : "osmotic P; carboxylate  O" },
+   { "type" : "Na+ OS",  "params" : { "sigma" : 2.788512987779262,  "epsilon" : 0.07502 },  "memo" : "POPC optim.; ester  O" },
+   { "type" : "Na+ OCL",  "params" : { "sigma" : 2.8776028595932956,  "epsilon" : 0.07502 },  "memo" : "osmotic P; carboxylate  O" },
+   { "type" : "Na+ OBL",  "params" : { "sigma" : 2.788512987779262,  "epsilon" : 0.07502 },  "memo" : "POPC optim.; ester  O" },
+   { "type" : "Na+ O2L",  "params" : { "sigma" : 2.8152399493234723,  "epsilon" : 0.07502 },  "memo" : "POPC optim.; phosphate  O" },
+   { "type" : "Na+ OC2D2",  "params" : { "sigma" : 2.8776028595932956,  "epsilon" : 0.07502 },  "memo" : "osmotic P; carboxylate  O" },
+   { "type" : "Na+ OC2DP",  "params" : { "sigma" : 2.8152399493234723,  "epsilon" : 0.07502 },  "memo" : "POPC optim.; phosphate  O" },
+   { "type" : "Na+ OG2D2",  "params" : { "sigma" : 2.8776028595932956,  "epsilon" : 0.07502 },  "memo" : "osmotic P; carboxylate  O" },
+   { "type" : "Na+ OG2P1",  "params" : { "sigma" : 2.8152399493234723,  "epsilon" : 0.07502 },  "memo" : "POPC optim.; phosphate  O" }
+]

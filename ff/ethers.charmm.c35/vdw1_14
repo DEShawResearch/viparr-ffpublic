@@ -1,0 +1,9 @@
+[
+   { "type" : "CC30A",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "from CC31A" },
+   { "type" : "CC31A",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "alkane,isobutane 1/5/05 viv" },
+   { "type" : "CC32A",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "alkane, 4/98, yin, adm jr." },
+   { "type" : "CC33A",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "alkane, 4/98, yin, adm jr." },
+   { "type" : "CC326A",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "THP, tetrahyropyran, viv" },
+   { "type" : "CC325A",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "CPEN, cyclopentane, 8/06 viv" },
+   { "type" : "CC325B",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "CPEN, cyclopentane, 8/06 viv" }
+]

@@ -1,0 +1,34 @@
+{
+    "info" : [
+        "Charmm22 forcefield with pseudopolarization term",
+        "Sborgi et al. (2015) J. Am. Chem. Soc. 137(20), 6506-6516",
+        "Macias et al. (2005), J. Comp. Chem. 26, 1452-1463MacKerell et al. (2004), J. Comp. Chem. 25, 1400-1415",
+        "MacKerell et al. (1998), J. Phys. Chem. B. 102, 3586-3616",
+        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul17.tgz"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "nbfix_identifier" : "charmm", 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "bonds",
+        "angles",
+        "ureybradley",
+        "propers",
+        "impropers",
+        "cmap",
+        "vdw1"
+    ]
+}

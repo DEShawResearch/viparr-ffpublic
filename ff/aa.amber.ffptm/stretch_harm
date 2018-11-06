@@ -1,0 +1,10 @@
+[
+   { "type" : "CT N2",  "params" : { "r0" : 1.47,  "fc" : 320.6 },  "memo" : "same as c3-n3" },
+   { "type" : "CM N2",  "params" : { "r0" : 1.364,  "fc" : 449.0 },  "memo" : "same as cc-nh" },
+   { "type" : "OH S",  "params" : { "r0" : 1.682,  "fc" : 265.6 },  "memo" : "same as oh-ss" },
+   { "type" : "P S",  "params" : { "r0" : 2.104,  "fc" : 167.0 },  "memo" : "same as p4-ss" },
+   { "type" : "CA OS",  "params" : { "r0" : 1.357,  "fc" : 392.6 },  "memo" : "same as c2-os" },
+   { "type" : "OS P",  "params" : { "r0" : 1.61,  "fc" : 525.0 },  "memo" : "STICHT" },
+   { "type" : "OH P",  "params" : { "r0" : 1.61,  "fc" : 525.0 },  "memo" : "STICHT" },
+   { "type" : "C S",  "params" : { "r0" : 1.762,  "fc" : 261.9 },  "memo" : "same as c -ss" }
+]

@@ -1,0 +1,29 @@
+{
+    "info" : [
+        "Amber phosphorylated amino acids",
+        "Homeyer et al. (2006) J. Mol. Model. 12:281-289",
+        "Steinbrecher et al. (2012) J. Chem. Theo. Comput. 8:4405-4412",
+        "Parameter sets obtained from AmberTools v17"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        0.8333
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        0.5
+    ], 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "bonds",
+        "angles",
+        "vdw1",
+        "propers"
+    ]
+}

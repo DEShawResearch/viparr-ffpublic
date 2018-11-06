@@ -1,0 +1,11 @@
+[
+   { "type" : "Li+",  "params" : { "sigma" : 1.8263423721876955,  "epsilon" : 0.0279896 },  "memo" : "" },
+   { "type" : "Na+",  "params" : { "sigma" : 2.439280690268249,  "epsilon" : 0.0874393 },  "memo" : "" },
+   { "type" : "K+",  "params" : { "sigma" : 3.037964628858557,  "epsilon" : 0.1936829 },  "memo" : "" },
+   { "type" : "Rb+",  "params" : { "sigma" : 3.23039875197687,  "epsilon" : 0.3278219 },  "memo" : "" },
+   { "type" : "Cs+",  "params" : { "sigma" : 3.5208317340906206,  "epsilon" : 0.4065394 },  "memo" : "" },
+   { "type" : "F-",  "params" : { "sigma" : 4.103479495754403,  "epsilon" : 0.003364 },  "memo" : "" },
+   { "type" : "Cl-",  "params" : { "sigma" : 4.477656957373345,  "epsilon" : 0.035591 },  "memo" : "" },
+   { "type" : "Br-",  "params" : { "sigma" : 4.64692771382001,  "epsilon" : 0.0586554 },  "memo" : "" },
+   { "type" : "I-",  "params" : { "sigma" : 5.095940667762741,  "epsilon" : 0.0536816 },  "memo" : "" }
+]

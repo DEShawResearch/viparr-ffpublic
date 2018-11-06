@@ -1,0 +1,9 @@
+[
+   { "type" : "OP",  "params" : { "amu" : 16.0 },  "memo" : "Monoanionic Phosphate oxygen (analog to O2)" },
+   { "type" : "OQ",  "params" : { "amu" : 16.0 },  "memo" : "Monoanionic Phosphate oxygen, protonated (analog to OH)" },
+   { "type" : "OR",  "params" : { "amu" : 16.0 },  "memo" : "Monoanionic Phosphate oxygen, bridging (analog to OS)" },
+   { "type" : "OT",  "params" : { "amu" : 16.0 },  "memo" : "TYR 2- Phosphate oxygen (analog to OP)" },
+   { "type" : "OV",  "params" : { "amu" : 16.0 },  "memo" : "TYR 2- Phosphate oxygen, bridging (analog to OR)" },
+   { "type" : "OX",  "params" : { "amu" : 16.0 },  "memo" : "SER/THR 2- Phosphate oxygen (analog to OP)" },
+   { "type" : "OZ",  "params" : { "amu" : 16.0 },  "memo" : "SER/THR 2- Phosphate oxygen, bridging (analog to OR)" }
+]

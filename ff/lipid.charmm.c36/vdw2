@@ -1,0 +1,22 @@
+[
+   { "type" : "CLGR1 OG2D1",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.2 },  "memo" : "NBFIX based on NMA (carbonyl oxygen in amide) and CL of CGenFF" },
+   { "type" : "CLGR1 O",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.2 },  "memo" : "NBFIX for carbonyl oxygen in amide of protein" },
+   { "type" : "CLGR1 ON1",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.2 },  "memo" : "NBFIX for carbonyl oxygen in nucleic acid bases" },
+   { "type" : "CLGR1 ON1C",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.2 },  "memo" : "NBFIX for carbonyl oxygen in nucleic acid bases" },
+   { "type" : "CLGR1 OC2D1",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.2 },  "memo" : "NBFIX for carbonyl oxygen in carbohydrate amides" },
+   { "type" : "CLGR1 S",  "params" : { "sigma" : 3.4121420904774995,  "epsilon" : 0.38 },  "memo" : "NBFIX for cysteine sulphur" },
+   { "type" : "CLGR1 HS",  "params" : { "sigma" : 2.5123343851557567,  "epsilon" : 0.2 },  "memo" : "NBFIX for cysteine sulphur" },
+   { "type" : "NC2 OC",  "params" : { "sigma" : 3.240198637876414,  "epsilon" : 0.154919 },  "memo" : "From osmotic pressure calibration" },
+   { "type" : "CRL1 HAL2",  "params" : { "sigma" : 2.9845107057701368,  "epsilon" : 0.0321 },  "memo" : "" },
+   { "type" : "HAL2 HGA1",  "params" : { "sigma" : 2.3876085646161096,  "epsilon" : 0.0359 },  "memo" : "" },
+   { "type" : "CRL2 HAL2",  "params" : { "sigma" : 2.99341969295154,  "epsilon" : 0.0415 },  "memo" : "" },
+   { "type" : "HAL2 HGA2",  "params" : { "sigma" : 2.3876085646161096,  "epsilon" : 0.0317 },  "memo" : "" },
+   { "type" : "CRL1 HAL1",  "params" : { "sigma" : 2.9845107057701368,  "epsilon" : 0.0293 },  "memo" : "" },
+   { "type" : "HAL1 HGA1",  "params" : { "sigma" : 2.3876085646161096,  "epsilon" : 0.0329 },  "memo" : "" },
+   { "type" : "CRL2 HAL1",  "params" : { "sigma" : 2.99341969295154,  "epsilon" : 0.0379 },  "memo" : "" },
+   { "type" : "HAL1 HGA2",  "params" : { "sigma" : 2.3876085646161096,  "epsilon" : 0.0289 },  "memo" : "" },
+   { "type" : "CRL1 CTL1",  "params" : { "sigma" : 3.5725038597427603,  "epsilon" : 0.0275 },  "memo" : "" },
+   { "type" : "CTL1 HGA1",  "params" : { "sigma" : 2.975601718588733,  "epsilon" : 0.0308 },  "memo" : "" },
+   { "type" : "CRL2 CTL1",  "params" : { "sigma" : 3.5814128469241635,  "epsilon" : 0.0355 },  "memo" : "" },
+   { "type" : "CTL1 HGA2",  "params" : { "sigma" : 2.975601718588733,  "epsilon" : 0.0271 },  "memo" : "" }
+]

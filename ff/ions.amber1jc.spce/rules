@@ -1,0 +1,25 @@
+{
+    "info" : [
+        "Amber monovalent ion parameters for use with spce",
+        "Joung et al. (2008) J Phys Chem B. 112(30):9020-9041",
+        "Parameter sets obtained from AmberTools v17"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        0.8333
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        0.5
+    ], 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "vdw1"
+    ]
+}

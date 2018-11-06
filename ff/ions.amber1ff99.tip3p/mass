@@ -1,0 +1,11 @@
+[
+   { "type" : "Li+",  "params" : { "amu" : 6.94 },  "memo" : "lithium   pol: J. Phys. Chem. 11,1541,(1978)" },
+   { "type" : "Na+",  "params" : { "amu" : 22.99 },  "memo" : "sodium    pol: J. Phys. Chem. 11,1541,(1978)" },
+   { "type" : "K+",  "params" : { "amu" : 39.1 },  "memo" : "potassium" },
+   { "type" : "Rb+",  "params" : { "amu" : 85.47 },  "memo" : "rubidium" },
+   { "type" : "Cs+",  "params" : { "amu" : 132.91 },  "memo" : "cesium" },
+   { "type" : "F-",  "params" : { "amu" : 19.0 },  "memo" : "fluorine" },
+   { "type" : "Cl-",  "params" : { "amu" : 35.45 },  "memo" : "chlorine  (Applequist)" },
+   { "type" : "Br-",  "params" : { "amu" : 79.9 },  "memo" : "bromine   (Applequist)" },
+   { "type" : "I-",  "params" : { "amu" : 126.9 },  "memo" : "iodine    (Applequist)" }
+]

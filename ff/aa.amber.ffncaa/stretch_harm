@@ -1,0 +1,11 @@
+[
+   { "type" : "N OH",  "params" : { "r0" : 1.41,  "fc" : 395.4 },  "memo" : "same as  n-oh, penalty score=  0.0" },
+   { "type" : "CB CT",  "params" : { "r0" : 1.508,  "fc" : 328.3 },  "memo" : "same as c2-c3" },
+   { "type" : "CA OS",  "params" : { "r0" : 1.357,  "fc" : 392.6 },  "memo" : "same as c2-os" },
+   { "type" : "CM NT",  "params" : { "r0" : 1.364,  "fc" : 449.0 },  "memo" : "same as ca-nh, penalty score=  3.8" },
+   { "type" : "CM N2",  "params" : { "r0" : 1.364,  "fc" : 449.0 },  "memo" : "same as cc-nh" },
+   { "type" : "CA N&",  "params" : { "r0" : 1.391,  "fc" : 411.1 },  "memo" : "same as c2-na" },
+   { "type" : "C& CA",  "params" : { "r0" : 1.434,  "fc" : 411.7 },  "memo" : "same as ca-cc" },
+   { "type" : "CC OH",  "params" : { "r0" : 1.343,  "fc" : 411.8 },  "memo" : "same as cc-oh, penalty score=  0.0" },
+   { "type" : "C& CC",  "params" : { "r0" : 1.429,  "fc" : 418.3 },  "memo" : "same as cc-cc, penalty score=  0.0" }
+]

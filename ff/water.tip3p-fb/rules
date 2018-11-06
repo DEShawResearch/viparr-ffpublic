@@ -1,0 +1,5 @@
+{
+   "plugins" : ["bonds", "angles", "vdw1", "exclusions", "mass"],
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "info" : ["tip3p-fb 3-site water model","Wang et al. (2004) J. Phys. Chem. Lett. 5, 1885-1891"]
+}

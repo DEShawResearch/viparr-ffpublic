@@ -1,0 +1,18 @@
+[
+   { "type" : "Li+",  "params" : { "amu" : 6.94 },  "memo" : "" },
+   { "type" : "Na+",  "params" : { "amu" : 22.99 },  "memo" : "" },
+   { "type" : "K+",  "params" : { "amu" : 39.1 },  "memo" : "" },
+   { "type" : "Rb+",  "params" : { "amu" : 85.47 },  "memo" : "" },
+   { "type" : "Cs+",  "params" : { "amu" : 132.91 },  "memo" : "" },
+   { "type" : "Tl+",  "params" : { "amu" : 204.38 },  "memo" : "" },
+   { "type" : "Cu+",  "params" : { "amu" : 63.55 },  "memo" : "" },
+   { "type" : "Ag+",  "params" : { "amu" : 107.87 },  "memo" : "" },
+   { "type" : "NH4+",  "params" : { "amu" : 18.04 },  "memo" : "" },
+   { "type" : "HE+",  "params" : { "amu" : 1.007 },  "memo" : "" },
+   { "type" : "HZ+",  "params" : { "amu" : 1.007 },  "memo" : "" },
+   { "type" : "H3O+",  "params" : { "amu" : 19.02 },  "memo" : "" },
+   { "type" : "F-",  "params" : { "amu" : 19.0 },  "memo" : "" },
+   { "type" : "Cl-",  "params" : { "amu" : 35.45 },  "memo" : "" },
+   { "type" : "Br-",  "params" : { "amu" : 79.9 },  "memo" : "" },
+   { "type" : "I-",  "params" : { "amu" : 126.9 },  "memo" : "" }
+]

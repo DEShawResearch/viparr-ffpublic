@@ -1,0 +1,34 @@
+{
+    "info" : [
+        "Charmm22 protein forcefield with modified DER side chain charges",
+        "Jensen et al. (2012) Science 336, 229-233",
+        "MacKerell et al. (2004), J. Comp. Chem. 25, 1400-1415",
+        "MacKerell et al. (1998), J. Phys. Chem. B. 102, 3586-3616",
+        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul17.tgz"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "nbfix_identifier" : "charmm", 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "bonds",
+        "angles",
+        "ureybradley",
+        "propers",
+        "impropers",
+        "cmap",
+        "vdw1"
+    ]
+}

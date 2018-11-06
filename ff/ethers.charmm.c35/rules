@@ -1,0 +1,30 @@
+{
+    "info" : [
+        "Charmm35 ether forcefield",
+        "Vorobyov et al. (2007) J Chem. Theory Comput. 3, 1120-1133Lee et al. (2008) Biophys. J. 95, 1590-1599",
+        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul17.tgz"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "nbfix_identifier" : "charmm", 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "bonds",
+        "angles",
+        "ureybradley",
+        "propers",
+        "vdw1"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "info" : [
+        "Amber ff99SBnmr protein forcefield",
+        "D.W. Li and R. Bruschweiler, (2010) Angew. Chem. Int. Eng. Ed. 49:6778Wang et al. (2000), J. Comp. Chem. 21, 1049-1074",
+        "Hornak et al. (2006), Proteins: Structure, Function and Genetics, 3:712-725",
+        "Parameter sets obtained from AmberTools v17"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        0.8333
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        0.5
+    ], 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "bonds",
+        "angles",
+        "vdw1",
+        "propers",
+        "impropers"
+    ]
+}

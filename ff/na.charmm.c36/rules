@@ -1,0 +1,35 @@
+{
+    "info" : [
+        "Charmm36 nucleic acid forcefield",
+        "Hart et al. (2012), J Chem Theory Comput 8(1) 348-362",
+        "Denning et al. (2011), J. Comp. Chem. 32, 1929-1943",
+        "Foloppe et al. (2000), J. Comp. Chem. 21, 86-104",
+        "MacKerell et al. (2000), J. Comp. Chem. 21, 105-120",
+        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul17.tgz"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "nbfix_identifier" : "charmm", 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "bonds",
+        "angles",
+        "ureybradley",
+        "propers",
+        "impropers",
+        "vdw1",
+        "vdw2"
+    ]
+}

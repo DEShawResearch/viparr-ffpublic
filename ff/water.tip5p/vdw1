@@ -1,0 +1,5 @@
+[
+   {"type": ["OW"], "params": {"sigma": 3.12, "epsilon": 0.16}, "memo": ""},
+   {"type": ["HW"], "params": {"sigma": 0.0, "epsilon": 0.0}, "memo": ""},
+   {"type": ["Vrt"], "params": {"sigma": 0.0, "epsilon": 0.0}, "memo": ""}
+]

@@ -1,0 +1,20 @@
+[
+   { "type" : "cA",  "params" : { "sigma" : 3.3996695084235347,  "epsilon" : 0.1094 },  "memo" : "OPLS" },
+   { "type" : "cB",  "params" : { "sigma" : 3.3996695084235347,  "epsilon" : 0.086 },  "memo" : "Lipid14 v2.10" },
+   { "type" : "cC",  "params" : { "sigma" : 3.3996695084235347,  "epsilon" : 0.07 },  "memo" : "Lipid14 v2.10" },
+   { "type" : "cD",  "params" : { "sigma" : 3.3996695084235347,  "epsilon" : 0.1094 },  "memo" : "OPLS" },
+   { "type" : "hA",  "params" : { "sigma" : 2.649532787749369,  "epsilon" : 0.0157 },  "memo" : "OPLS" },
+   { "type" : "hB",  "params" : { "sigma" : 2.2272467953508484,  "epsilon" : 0.007 },  "memo" : "Lipid14 v2.10" },
+   { "type" : "hE",  "params" : { "sigma" : 2.471353044121301,  "epsilon" : 0.0157 },  "memo" : "Veenstra et al JCC,8,(1992),963" },
+   { "type" : "hL",  "params" : { "sigma" : 2.6014242569697905,  "epsilon" : 0.01 },  "memo" : "Lipid14 v2.10" },
+   { "type" : "hN",  "params" : { "sigma" : 1.069078461768407,  "epsilon" : 0.0157 },  "memo" : "!Ferguson base pair geom." },
+   { "type" : "hO",  "params" : { "sigma" : 0.0,  "epsilon" : 0.0 },  "memo" : "OPLS Jorgensen, JACS,110,(1988),1657 (RCW Needs fixing give radii)" },
+   { "type" : "hX",  "params" : { "sigma" : 1.9599771799087466,  "epsilon" : 0.0157 },  "memo" : "Veenstra et al JCC,8,(1992),963" },
+   { "type" : "nA",  "params" : { "sigma" : 3.249998523775958,  "epsilon" : 0.17 },  "memo" : "OPLS" },
+   { "type" : "oC",  "params" : { "sigma" : 2.9399657698631194,  "epsilon" : 0.14 },  "memo" : "Lipid14 v2.10" },
+   { "type" : "oH",  "params" : { "sigma" : 3.0664733878390478,  "epsilon" : 0.2104 },  "memo" : "OPLS" },
+   { "type" : "oP",  "params" : { "sigma" : 2.9399657698631194,  "epsilon" : 0.14 },  "memo" : "Lipid14 v2.10" },
+   { "type" : "oS",  "params" : { "sigma" : 2.9399657698631194,  "epsilon" : 0.12 },  "memo" : "Lipid14 v2.10" },
+   { "type" : "oT",  "params" : { "sigma" : 2.9399657698631194,  "epsilon" : 0.12 },  "memo" : "Lipid14 v2.10" },
+   { "type" : "pA",  "params" : { "sigma" : 3.741774616189425,  "epsilon" : 0.2 },  "memo" : "JCC,7,(1986),230;" }
+]

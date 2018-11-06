@@ -1,0 +1,5 @@
+[
+   { "type" : "CLGR1 CG2R61 pset0",  "params" : { "c1" : -1.64 },  "memo" : "LONEPAIR COLINEAR LP CL C6 DIST 1.640" },
+   { "type" : "BRGR1 CG2R61 pset0",  "params" : { "c1" : -1.89 },  "memo" : "LONEPAIR COLINEAR LP BR C6 DIST 1.890" },
+   { "type" : "IGR1 CG2R61 pset0",  "params" : { "c1" : -2.2 },  "memo" : "LONEPAIR COLINEAR LP I6 C6 DIST 2.200" }
+]

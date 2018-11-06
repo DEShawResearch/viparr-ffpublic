@@ -1,0 +1,18 @@
+[
+   { "type" : "Li+",  "params" : { "sigma" : 2.3430636287090922,  "epsilon" : 0.00594975 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "Na+",  "params" : { "sigma" : 2.610333244151194,  "epsilon" : 0.02909167 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "K+",  "params" : { "sigma" : 3.1092365263097843,  "epsilon" : 0.17018074 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "Rb+",  "params" : { "sigma" : 3.242871334030835,  "epsilon" : 0.22962229 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "Cs+",  "params" : { "sigma" : 3.563594872561357,  "epsilon" : 0.3894325 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "Tl+",  "params" : { "sigma" : 3.331961205844869,  "epsilon" : 0.27244486 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "Cu+",  "params" : { "sigma" : 2.1631020876447438,  "epsilon" : 0.00139196 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "Ag+",  "params" : { "sigma" : 2.672696154421018,  "epsilon" : 0.03899838 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "NH4+",  "params" : { "sigma" : 3.1894174109424145,  "epsilon" : 0.20504355 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "HE+",  "params" : { "sigma" : 1.4984916439120506,  "epsilon" : 0.0000000661 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "HZ+",  "params" : { "sigma" : 1.6481626285596278,  "epsilon" : 0.00000147 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "H3O+",  "params" : { "sigma" : 3.064691590402767,  "epsilon" : 0.15202035 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "F-",  "params" : { "sigma" : 3.0985457416921003,  "epsilon" : 0.16573832 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "Cl-",  "params" : { "sigma" : 3.852246057238827,  "epsilon" : 0.53154665 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "Br-",  "params" : { "sigma" : 4.153369823970261,  "epsilon" : 0.65952968 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" },
+   { "type" : "I-",  "params" : { "sigma" : 4.614855359966957,  "epsilon" : 0.80293907 },  "memo" : "IOD set from Li et al., JCTC, 2015, 11, 1645" }
+]

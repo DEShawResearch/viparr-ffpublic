@@ -1,0 +1,4 @@
+[
+   {"type": ["HW"], "params": {"sigma": 0.400013524445, "epsilon": 0.046}, "memo": ""},
+   {"type": ["OW"], "params": {"sigma": 3.15057422683, "epsilon": 0.1521}, "memo": ""}
+]

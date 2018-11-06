@@ -1,0 +1,15 @@
+[
+   { "type" : "HCA1A",  "params" : { "amu" : 1.008 },  "memo" : "Alkane H attached to C(sp3)H  (eq. HA1)" },
+   { "type" : "HCA2A",  "params" : { "amu" : 1.008 },  "memo" : "Alkane H attached to C(sp3)H2 (eq. HA2)" },
+   { "type" : "HCA3A",  "params" : { "amu" : 1.008 },  "memo" : "Alkane H attached to C(sp3)H3 (eq. HA3)" },
+   { "type" : "HCA25A",  "params" : { "amu" : 1.008 },  "memo" : "Alkane H attached to C(sp3)H2 in 5-membered ring" },
+   { "type" : "CC30A",  "params" : { "amu" : 12.011 },  "memo" : "-C(sp3)   Carbon (eq. CT)" },
+   { "type" : "CC31A",  "params" : { "amu" : 12.011 },  "memo" : "-C(sp3)H  Carbon (eq. CT1)" },
+   { "type" : "CC32A",  "params" : { "amu" : 12.011 },  "memo" : "-C(sp3)H2 Carbon (eq. CT2)" },
+   { "type" : "CC33A",  "params" : { "amu" : 12.011 },  "memo" : "-C(sp3)H3 Carbon (eq. CT3)" },
+   { "type" : "CC325A",  "params" : { "amu" : 12.011 },  "memo" : "-C(sp3)H2 Carbon in 5-membered ring" },
+   { "type" : "CC325B",  "params" : { "amu" : 12.011 },  "memo" : "-C(sp3)H2 Carbon in THF (tetrahydrofuran)" },
+   { "type" : "CC326A",  "params" : { "amu" : 12.011 },  "memo" : "-C(sp3)H2 Carbon in THP (tetrahydropyran)" },
+   { "type" : "OC30A",  "params" : { "amu" : 15.9994 },  "memo" : "Ether Oxygen" },
+   { "type" : "OC305A",  "params" : { "amu" : 15.9994 },  "memo" : "Ether Oxygen in THF" }
+]

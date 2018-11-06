@@ -1,0 +1,9 @@
+[
+   { "type" : "CLGR1 OG2D1",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.2 },  "memo" : "NBFIX based on NMA (carbonyl oxygen in amide) and CL of CGenFF" },
+   { "type" : "CLGR1 O",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.2 },  "memo" : "NBFIX for carbonyl oxygen in amide of protein" },
+   { "type" : "CLGR1 ON1",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.2 },  "memo" : "NBFIX for carbonyl oxygen in nucleic acid bases" },
+   { "type" : "CLGR1 ON1C",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.2 },  "memo" : "NBFIX for carbonyl oxygen in nucleic acid bases" },
+   { "type" : "CLGR1 OC2D1",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.2 },  "memo" : "NBFIX for carbonyl oxygen in carbohydrate amides" },
+   { "type" : "CLGR1 S",  "params" : { "sigma" : 3.4121420904774995,  "epsilon" : 0.38 },  "memo" : "NBFIX for cysteine sulphur" },
+   { "type" : "CLGR1 HS",  "params" : { "sigma" : 2.5123343851557567,  "epsilon" : 0.2 },  "memo" : "NBFIX for cysteine sulphur" }
+]

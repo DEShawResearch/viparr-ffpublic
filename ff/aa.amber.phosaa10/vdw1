@@ -1,0 +1,9 @@
+[
+   { "type" : "OP",  "params" : { "sigma" : 3.116898255285791,  "epsilon" : 0.21 },  "memo" : "modified acc. to FEP solvation energies for phosphate monoanions" },
+   { "type" : "OQ",  "params" : { "sigma" : 3.2234497419753754,  "epsilon" : 0.21 },  "memo" : "a uniform radius increase of 0.0881 A was applied" },
+   { "type" : "OR",  "params" : { "sigma" : 3.1569886976021064,  "epsilon" : 0.17 },  "memo" : "" },
+   { "type" : "OT",  "params" : { "sigma" : 2.9109224716517446,  "epsilon" : 0.21 },  "memo" : "modified acc. to FEP solvation energies for TYR 2-" },
+   { "type" : "OV",  "params" : { "sigma" : 2.9510129139680594,  "epsilon" : 0.17 },  "memo" : "a uniform radius increase of -0.0275 A was applied" },
+   { "type" : "OX",  "params" : { "sigma" : 3.2786854625000768,  "epsilon" : 0.21 },  "memo" : "modified acc. to FEP solvation energies for SER/THR 2-" },
+   { "type" : "OZ",  "params" : { "sigma" : 3.318775904816392,  "epsilon" : 0.17 },  "memo" : "a uniform radius increase of 0.1789 A was applied" }
+]

@@ -1,0 +1,39 @@
+{
+    "info" : [
+        "Charmm36 carbohydrate forcefield",
+        "Guvench et al. (2008) J. Comput. Chem. 29, 2543-2564",
+        "Hatcher et al. (2009) J Chem. Theory Comput. 5, 1315-1327",
+        "Guvench et al. (2009) J Chem. Theory Comput. 5, 2353-2370",
+        "Hatcher et al. (2009) J Phys. Chem. B. 113, 12466-76",
+        "Raman et al. (2010) J Phys. Chem. B, 114, 12981-12994",
+        "Guvench et al. (2011) J Chem. Theory Comput. 7(10), 3162-3180",
+        "Mallajosyula et al. (2011) J Phys. Chem. B 115(38), 11215-11229",
+        "Mallajosyula et al. (2012) J Chem. Theory Comput. 8(2), 759-776",
+        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul17.tgz"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "nbfix_identifier" : "charmm", 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "bonds",
+        "angles",
+        "ureybradley",
+        "propers",
+        "impropers",
+        "vdw1",
+        "vdw2"
+    ]
+}

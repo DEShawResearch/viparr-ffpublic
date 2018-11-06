@@ -1,0 +1,5 @@
+{
+   "plugins" : ["bonds", "angles", "vdw1", "exclusions", "mass"],
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "info" : ["tip3p 3-site water model with additional hydrogen vdw parameters. Used by charmm","Neria et al. (1996) J. Chem. Phys. 105, 1902"]
+}

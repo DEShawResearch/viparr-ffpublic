@@ -1,0 +1,30 @@
+{
+    "info" : [
+        "Ion parameters used with charmm36 forcefields. Includes NBFIX terms",
+        "Won et al. (2012) J. Phys. Chem A. 116, 11763-11767",
+        "Beglov et al. (1994) J. Chem. Phys 100, 9050-9063",
+        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul17.tgz"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "nbfix_identifier" : "charmm", 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "bonds",
+        "angles",
+        "vdw1",
+        "vdw2"
+    ]
+}

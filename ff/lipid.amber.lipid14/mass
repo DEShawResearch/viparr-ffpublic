@@ -1,0 +1,20 @@
+[
+   { "type" : "cA",  "params" : { "amu" : 12.01 },  "memo" : "sp3 carbon (GAFF c3-head,glycerol)" },
+   { "type" : "cB",  "params" : { "amu" : 12.01 },  "memo" : "aliphatic sp2 carbon (GAFF c2-tail)" },
+   { "type" : "cC",  "params" : { "amu" : 12.01 },  "memo" : "carbonyl sp2 carbon (GAFF c -head,glycerol)" },
+   { "type" : "cD",  "params" : { "amu" : 12.01 },  "memo" : "sp3 carbon (GAFFlipid a3-tail)" },
+   { "type" : "hA",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to aliphatic carbon without electrwd. group (GAFF hc-)" },
+   { "type" : "hB",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to aromatic carbon (GAFF ha-)" },
+   { "type" : "hE",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to aliphatic carbon with 1 electrwd. group (GAFF h1-)" },
+   { "type" : "hL",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to aliphatic carbon without electrwd. group (GAFFlipid hl-)" },
+   { "type" : "hN",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to nitrogen (GAFF hn-)" },
+   { "type" : "hO",  "params" : { "amu" : 1.008 },  "memo" : "H in Hydroxyl group (GAFF ho-)" },
+   { "type" : "hX",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to C next to positively charged group (GAFF hx-)" },
+   { "type" : "nA",  "params" : { "amu" : 14.01 },  "memo" : "sp3 N with four connected atoms (GAFF n4-)" },
+   { "type" : "oC",  "params" : { "amu" : 16.0 },  "memo" : "sp2 oxygen with one connected atom (e.g C=O, COO-) (GAFF o -)" },
+   { "type" : "oH",  "params" : { "amu" : 16.0 },  "memo" : "sp3 oxygen in hydroxyl group (GAFF oh-)" },
+   { "type" : "oP",  "params" : { "amu" : 16.0 },  "memo" : "sp2 oxygen with one connected atom (e.g P-O) in phosphate group (GAFF o -)" },
+   { "type" : "oS",  "params" : { "amu" : 16.0 },  "memo" : "sp3 oxygen in ethers and esters (GAFF os-)" },
+   { "type" : "oT",  "params" : { "amu" : 16.0 },  "memo" : "sp3 oxygen bonded to carbon in phosphate group (GAFF os-)" },
+   { "type" : "pA",  "params" : { "amu" : 30.97 },  "memo" : "phosphorus with four connected atoms, such as O=P(OH)3 (GAFF p5-)" }
+]

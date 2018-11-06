@@ -1,0 +1,34 @@
+{
+    "info" : [
+        "Charmm36 lipid forcefield",
+        "Lim et al. (2012), J. Phys. Chem. B, 116 203-210",
+        "Klauda et al. (2012), J. Phys. Chem. B, 116  9424-9431",
+        "Klauda et al. (2010), J. Phys. Chem. B, 114, 7830-7843",
+        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul17.tgz"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        1.0
+    ], 
+    "nbfix_identifier" : "charmm", 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "bonds",
+        "angles",
+        "ureybradley",
+        "propers",
+        "impropers",
+        "vdw1",
+        "vdw2"
+    ]
+}

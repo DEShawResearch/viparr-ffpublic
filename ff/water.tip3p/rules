@@ -1,0 +1,6 @@
+{
+   "plugins" : ["bonds", "angles", "vdw1", "exclusions", "mass"],
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "info" : ["tip3p 3-site water model","Jorgensen et al. (1983) Mol. Phys. 79, 926",
+             "Parameters as tabulated in: Mahoney et al (2000) J. Chem. Phys. 112, 8910"]
+}

@@ -1,0 +1,8 @@
+[
+   { "type" : "C NH1 CT1 C NH1 CT1 C NH1",  "params" : { "cmapid" : 1 },  "memo" : "" },
+   { "type" : "C NH1 CT1 C NH1 CT1 C N",  "params" : { "cmapid" : 2 },  "memo" : "" },
+   { "type" : "C N CP1 C N CP1 C NH1",  "params" : { "cmapid" : 3 },  "memo" : "" },
+   { "type" : "C N CP1 C N CP1 C N",  "params" : { "cmapid" : 4 },  "memo" : "" },
+   { "type" : "C NH1 CT2 C NH1 CT2 C NH1",  "params" : { "cmapid" : 5 },  "memo" : "" },
+   { "type" : "C NH1 CT2 C NH1 CT2 C N",  "params" : { "cmapid" : 6 },  "memo" : "" }
+]

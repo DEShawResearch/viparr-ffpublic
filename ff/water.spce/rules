@@ -1,0 +1,5 @@
+{
+   "plugins" : ["bonds", "angles", "vdw1", "exclusions", "mass"],
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "info" : ["spce 3-site water model","Berendsen et al. (1987) J. Phys. Chem. 91, 6269."]
+}

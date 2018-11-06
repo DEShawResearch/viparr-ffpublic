@@ -1,0 +1,5 @@
+{
+   "plugins" : ["bonds", "angles", "vdw1", "exclusions", "mass", "virtuals"],
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "info" : ["tip4pew 4-site water model", "Horn et al. (2004) J. Chem. Phys. 120, 9665"]
+}

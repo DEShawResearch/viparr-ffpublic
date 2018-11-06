@@ -1,0 +1,15 @@
+[
+   { "type" : "HCA1A",  "params" : { "sigma" : 2.3876085646161096,  "epsilon" : 0.045 },  "memo" : "alkane,isobutane 1/5/05 viv" },
+   { "type" : "HCA2A",  "params" : { "sigma" : 2.3876085646161096,  "epsilon" : 0.035 },  "memo" : "alkane,propane 11/16/04 viv" },
+   { "type" : "HCA3A",  "params" : { "sigma" : 2.3876085646161096,  "epsilon" : 0.024 },  "memo" : "alkane, yin and mackerell, 4/98" },
+   { "type" : "CC30A",  "params" : { "sigma" : 3.563594872561357,  "epsilon" : 0.032 },  "memo" : "from CC31A" },
+   { "type" : "CC31A",  "params" : { "sigma" : 3.563594872561357,  "epsilon" : 0.032 },  "memo" : "alkane,isobutane 1/5/05 viv" },
+   { "type" : "CC32A",  "params" : { "sigma" : 3.5814128469241635,  "epsilon" : 0.056 },  "memo" : "alkane, 4/98, yin, adm jr." },
+   { "type" : "CC33A",  "params" : { "sigma" : 3.6348667700125845,  "epsilon" : 0.078 },  "memo" : "alkane, 4/98, yin, adm jr." },
+   { "type" : "CC326A",  "params" : { "sigma" : 3.5814128469241635,  "epsilon" : 0.056 },  "memo" : "THP, tetrahyropyran, viv" },
+   { "type" : "HCA25A",  "params" : { "sigma" : 2.316336667164882,  "epsilon" : 0.035 },  "memo" : "CPEN, cyclopentane, 8/06 viv" },
+   { "type" : "CC325A",  "params" : { "sigma" : 3.599230821286971,  "epsilon" : 0.06 },  "memo" : "CPEN, cyclopentane, 8/06 viv" },
+   { "type" : "CC325B",  "params" : { "sigma" : 3.599230821286971,  "epsilon" : 0.06 },  "memo" : "CPEN, cyclopentane, 8/06 viv" },
+   { "type" : "OC305A",  "params" : { "sigma" : 2.9399657698631194,  "epsilon" : 0.1 },  "memo" : "THP, tetrahydropyran sng 1/06" },
+   { "type" : "OC30A",  "params" : { "sigma" : 2.9399657698631194,  "epsilon" : 0.1 },  "memo" : "THP, tetrahydropyran sng 1/06" }
+]

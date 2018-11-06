@@ -1,0 +1,5 @@
+{
+   "plugins" : ["bonds", "angles", "vdw1", "exclusions", "mass", "virtuals"],
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "info" : ["tip5p 5-site water model", "Mahoney et al. (2000) J. Chem. Phys. 112, 8910"]
+}

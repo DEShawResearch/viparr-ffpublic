@@ -1,0 +1,33 @@
+#!/bin/sh
+eval "$(garden-exec)"
+set -e
+
+name=viparr-ffpublic
+version=1.0.0
+
+genmodules() {
+    cat << EOF > $GARDENDIR/data
+prepend-path VIPARR_FFPATH $PREFIX/ff
+EOF
+}
+
+genhelp() {
+  cat << EOF > $METADIR/help.txt
+Viparr format for academic forcefields in the public domain.
+EOF
+}
+
+case $1 in
+    --name)
+        echo $name
+        ;;
+    --version)
+        echo ${version}c7
+        ;;
+    --install)
+        cp -r ff $PREFIX
+        genhelp
+        genmodules
+        ;;
+esac
+

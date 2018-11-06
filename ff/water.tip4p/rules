@@ -1,0 +1,6 @@
+{
+   "plugins" : ["bonds", "angles", "vdw1", "exclusions", "mass", "virtuals"],
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "info" : ["tip4p 4-site water model","Jorgensen et al. (1985) Mol. Phys. 56, 1381",
+             "Parameters as tabulated in: Mahoney et al. (2000) J. Chem. Phys. 112, 8910"]
+}

@@ -1,0 +1,22 @@
+[
+   { "type" : "cA",  "params" : { "amu" : 12.01 },  "memo" : "sp3 carbon                                                       Lipid11 v1.0  (GAFF c3-)" },
+   { "type" : "cB",  "params" : { "amu" : 12.01 },  "memo" : "Aliphatic sp2 carbon                                             Lipid11 v1.0  (GAFF c2-)" },
+   { "type" : "cC",  "params" : { "amu" : 12.01 },  "memo" : "Carbonyl sp2 carbon                                              Lipid11 v1.0  (GAFF c -)" },
+   { "type" : "cD",  "params" : { "amu" : 12.01 },  "memo" : "sp3 carbon                                                       Lipid14 v1.0  (GAFFlipid a3-)" },
+   { "type" : "hA",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to aliphatic carbon without electron withdrawing group  Lipid14 v1.14 (GAFF hc-)" },
+   { "type" : "hB",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to aromatic carbon                                      Lipid11 v1.0  (GAFF ha-)" },
+   { "type" : "hE",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to aliphatic carbon with 1 electron withdrawing group   Lipid11 v1.0  (GAFF h1-)" },
+   { "type" : "hL",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to aliphatic carbon without electron withdrawing group  Lipid14 v1.0  (GAFFlipid hl-)" },
+   { "type" : "hN",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to nitrogen                                             Lipid11 v1.0  (GAFF hn-)" },
+   { "type" : "hO",  "params" : { "amu" : 1.008 },  "memo" : "H in hydroxyl group                                              Lipid14 v1.14 (GAFF ho-)" },
+   { "type" : "hX",  "params" : { "amu" : 1.008 },  "memo" : "H bonded to C next to positively charged group                   Lipid11 v1.0  (GAFF hx-)" },
+   { "type" : "nA",  "params" : { "amu" : 14.01 },  "memo" : "sp3 N with four connected atoms                                  Lipid11 v1.0  (GAFF n4-)" },
+   { "type" : "nN",  "params" : { "amu" : 14.01 },  "memo" : "sp2 nitrogen in amide groups                                     Lipid17 v1.0  (GAFF n -)" },
+   { "type" : "oC",  "params" : { "amu" : 16.0 },  "memo" : "sp2 oxygen with one connected atom (e.g. C=O, COO-)              Lipid11 v1.0  (GAFF o -)" },
+   { "type" : "oH",  "params" : { "amu" : 16.0 },  "memo" : "sp3 oxygen in hydroxyl group                                     Lipid11 v1.14 (GAFF oh-)" },
+   { "type" : "oO",  "params" : { "amu" : 16.0 },  "memo" : "sp2 oxygen with one connected atom                               Lipid17 v1.0  (Lipid14 oC-, oP-)" },
+   { "type" : "oP",  "params" : { "amu" : 16.0 },  "memo" : "sp2 oxygen with one connected atom (e.g. P-O) in phosphate group Lipid11 v1.0  (GAFF o -)" },
+   { "type" : "oS",  "params" : { "amu" : 16.0 },  "memo" : "sp3 oxygen in ethers and esters                                  Lipid11 v1.0  (GAFF os-)" },
+   { "type" : "oT",  "params" : { "amu" : 16.0 },  "memo" : "sp3 oxygen bonded to carbon in phosphate group                   Lipid11 v1.0  (GAFF os-)" },
+   { "type" : "pA",  "params" : { "amu" : 30.97 },  "memo" : "Phosphorus with four connected atoms (e.g. O=P(OH)3)             Lipid11 v1.0  (GAFF p5-)" }
+]

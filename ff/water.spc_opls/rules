@@ -1,0 +1,5 @@
+{
+   "plugins" : ["bonds", "angles", "vdw1", "exclusions", "mass"],
+   "vdw_comb_rule" : "GEOMETRIC",
+   "info" : ["spc 3-site water model with geometric combining rules for compatability with opls based forcefields","Berendsen et al. in Intermolecular Forces, edited by B. Pullman (Reidel, Dordrecht,1981), p. 331."]
+}
