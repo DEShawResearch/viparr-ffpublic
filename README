@@ -1,0 +1,8 @@
+Viparr format for academic forcefields in the public domain.
+
+To use with viparr, set the shell variable VIPARR_FFPATH to
+the location of the ff directory in this repository.
+
+In lieu of pull requests or issues, please direct questions to
+desmond@DEShawResearch.com
+
