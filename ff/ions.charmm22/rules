@@ -1,5 +1,5 @@
 {
-   "info" : ["Original ion parameters used with charmm forcefields."
+   "info" : ["Original ion parameters used with charmm forcefields.",
              "Beglov et al. (1994), J. Chem. Phys. 100, 9050-9063 (ions)",
              "parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_aug12.tgz"],
    "vdw_func" : "LJ12_6_sig_epsilon",
