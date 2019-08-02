@@ -1,0 +1,5 @@
+[
+   { "type" : "Mg2+",  "params" : { "amu" : 24.305 },  "memo" : "" },
+   { "type" : "Ca2+",  "params" : { "amu" : 40.08 },  "memo" : "" },
+   { "type" : "Zn2+",  "params" : { "amu" : 65.4 },  "memo" : "" }
+]
