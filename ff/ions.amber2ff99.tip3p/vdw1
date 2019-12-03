@@ -1,0 +1,5 @@
+[
+   { "type" : "Mg2+",  "params" : { "sigma" : 1.4122526479960658,  "epsilon" : 0.8947 },  "memo" : "Mg2+ Aqvist JPC 1990,94,8021.(adapted)" },
+   { "type" : "Ca2+",  "params" : { "sigma" : 3.0523971880924305,  "epsilon" : 0.459789 },  "memo" : "Ca2+ Aqvist JPC 1990,94,8021.(adapted)" },
+   { "type" : "Zn2+",  "params" : { "sigma" : 1.9599771799087466,  "epsilon" : 0.0125 },  "memo" : "Zn2+, Merz,PAK, JACS,113,8262,(1991)" }
+]

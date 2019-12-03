@@ -1,0 +1,9 @@
+{
+   "info" : ["Amber RNA parameters, Tan 2018 variant", "Tan et al. (2018), PNAS 115 (7) E1346-E1355"],
+   "vdw_func" : "LJ12_6_sig_epsilon",
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "exclusions" : 4,
+   "es_scale" : [0.0, 0.0, 0.8333],
+   "lj_scale" : [0.0, 0.0, 0.5],
+   "plugins" : ["bonds", "angles", "propers", "impropers", "vdw1", "exclusions", "mass"]
+}
