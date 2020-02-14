@@ -9,7 +9,7 @@
         "Guvench et al. (2011) J Chem. Theory Comput. 7(10), 3162-3180",
         "Mallajosyula et al. (2011) J Phys. Chem. B 115(38), 11215-11229",
         "Mallajosyula et al. (2012) J Chem. Theory Comput. 8(2), 759-776",
-        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul17.tgz"
+        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul19.tgz"
     ], 
     "vdw_func" : "lj12_6_sig_epsilon", 
     "vdw_comb_rule" : "arithmetic/geometric", 

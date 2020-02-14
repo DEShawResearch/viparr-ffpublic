@@ -145,6 +145,8 @@
    { "type" : "NG2O1 OG2N1 OG2N1 CG334",  "params" : { "phi0" : 0.0,  "fc" : 50.8 },  "memo" : "NIME, nitromethane, abar" },
    { "type" : "NG2S3 HGP4 HGP4 CG2R61",  "params" : { "phi0" : 0.0,  "fc" : -2.5 },  "memo" : "-2.0 PYRIDINE aminopyridine 11/10 kevo: sic !  Compensates for in-plane force from CG2R61 CG2R61 NG2S3 HGP4" },
    { "type" : "NG2S3 HGP4 HGP4 CG2R64",  "params" : { "phi0" : 0.0,  "fc" : 9.0 },  "memo" : "NA GUA ADE CYT; from artificially planar 2APY, 2-aminopyridine parameter set (12/2010); xxwy & kevo" },
+   { "type" : "CG2O4 CG3C41 OG2D1 OG3C51",  "params" : { "phi0" : 0.0,  "fc" : 60.0 },  "memo" : "2OXT, ozyo" },
+   { "type" : "CG2O4 CG3C41 CG3C41 OG2D3",  "params" : { "phi0" : 0.0,  "fc" : 20.0 },  "memo" : "3OXT, ozyo" },
    { "type" : "HN2 * * NN2",  "params" : { "phi0" : 0.0,  "fc" : 1.0 },  "memo" : "C, adm jr. 11/97" },
    { "type" : "NN2B CN4 CN5 HN2",  "params" : { "phi0" : 0.0,  "fc" : 7.0 },  "memo" : "G, adm jr. 11/97" },
    { "type" : "HN1 * * NN1",  "params" : { "phi0" : 0.0,  "fc" : 4.0 },  "memo" : "G, adm jr. 11/97" },

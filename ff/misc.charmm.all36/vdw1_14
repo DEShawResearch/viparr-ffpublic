@@ -71,13 +71,14 @@
    { "type" : "NH1",  "params" : { "sigma" : 2.7617860262350518,  "epsilon" : 0.2 },  "memo" : "ALLOW   PEP POL ARO" },
    { "type" : "O",  "params" : { "sigma" : 2.49451641079295,  "epsilon" : 0.12 },  "memo" : "ALLOW   PEP POL" },
    { "type" : "OB",  "params" : { "sigma" : 2.49451641079295,  "epsilon" : 0.12 },  "memo" : "ALLOW   PEP POL ARO" },
+   { "type" : "OCA",  "params" : { "sigma" : 2.49451641079295,  "epsilon" : 0.12 },  "memo" : "3acp" },
+   { "type" : "CR33",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "alkane (CT3), 4/98, yin, adm jr" },
    { "type" : "NHL",  "params" : { "sigma" : 2.7617860262350518,  "epsilon" : 0.2 },  "memo" : "ALLOW   PEP POL ARO" },
    { "type" : "CTO1",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "alkane, 3/92" },
    { "type" : "CTO2",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "STN, 3/13" },
    { "type" : "CN6",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT1" },
    { "type" : "CN7E",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT1" },
+   { "type" : "CT2P",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT2, mj" },
    { "type" : "CN7C",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT1" },
-   { "type" : "CN7D",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT1" },
-   { "type" : "OCA",  "params" : { "sigma" : 2.49451641079295,  "epsilon" : 0.12 },  "memo" : "3acp" },
-   { "type" : "CR33",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "alkane (CT3), 4/98, yin, adm jr" }
+   { "type" : "CN7D",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT1" }
 ]

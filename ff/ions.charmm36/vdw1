@@ -3,6 +3,8 @@
    { "type" : "OT",  "params" : { "sigma" : 3.150574226831496,  "epsilon" : 0.1521 },  "memo" : "" },
    { "type" : "OX",  "params" : { "sigma" : 3.0290556416771532,  "epsilon" : 0.12 },  "memo" : "ALLOW   POL ION" },
    { "type" : "HX",  "params" : { "sigma" : 0.40001352444501237,  "epsilon" : 0.046 },  "memo" : "ALLOW PEP POL SUL ARO ALC" },
+   { "type" : "HPER",  "params" : { "sigma" : 0.40001352444501237,  "epsilon" : 0.046 },  "memo" : "" },
+   { "type" : "OPER",  "params" : { "sigma" : 2.9831387217442007,  "epsilon" : 0.20384 },  "memo" : "" },
    { "type" : "Li+",  "params" : { "sigma" : 2.3118821735741806,  "epsilon" : 0.00233 },  "memo" : "Lithium" },
    { "type" : "Na+",  "params" : { "sigma" : 2.513670733232967,  "epsilon" : 0.0469 },  "memo" : "new CHARMM Sodium" },
    { "type" : "Mg2+",  "params" : { "sigma" : 2.111429961992604,  "epsilon" : 0.015 },  "memo" : "Magnesium" },

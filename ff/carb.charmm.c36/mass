@@ -285,5 +285,7 @@
    { "type" : "ON6",  "params" : { "amu" : 15.9994 },  "memo" : "Nucleic acid deoxyribose ring oxygen" },
    { "type" : "ON6B",  "params" : { "amu" : 15.9994 },  "memo" : "Nucleic acid ribose ring oxygen" },
    { "type" : "P",  "params" : { "amu" : 30.974 },  "memo" : "phosphorus" },
-   { "type" : "P2",  "params" : { "amu" : 30.974 },  "memo" : "phosphorus, adm, 2011 DNA update" }
+   { "type" : "P2",  "params" : { "amu" : 30.974 },  "memo" : "phosphorus, adm, 2011 DNA update" },
+   { "type" : "P3",  "params" : { "amu" : 30.974 },  "memo" : "pyrophosphate phosphorus" },
+   { "type" : "P4",  "params" : { "amu" : 30.974 },  "memo" : "protonated pyrophosphate phosphorus" }
 ]

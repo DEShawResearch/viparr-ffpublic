@@ -237,7 +237,7 @@
    { "type" : "PG1",  "params" : { "sigma" : 3.8308644880034586,  "epsilon" : 0.585 },  "memo" : "phosphate -1" },
    { "type" : "PG2",  "params" : { "sigma" : 3.8308644880034586,  "epsilon" : 0.585 },  "memo" : "phosphate -2" },
    { "type" : "ALG1",  "params" : { "sigma" : 3.563594872561357,  "epsilon" : 0.65 },  "memo" : "Aluminum tetraflouride, ALF4" },
-   { "type" : "LPH",  "params" : { "sigma" : 0.0,  "epsilon" : -0.0 },  "memo" : "lone-pair on chlorine attached to aromatic, isg/fylin" },
+   { "type" : "LPH",  "params" : { "sigma" : 0.0,  "epsilon" : 0.0 },  "memo" : "lone-pair on chlorine attached to aromatic, isg/fylin" },
    { "type" : "CLGR1",  "params" : { "sigma" : 3.3141432314820625,  "epsilon" : 0.23 },  "memo" : "CHLB, chlorobenzene, adjusted for lone-pair, fylin" },
    { "type" : "BRGR1",  "params" : { "sigma" : 3.5279589238357434,  "epsilon" : 0.32 },  "memo" : "BROB, bromobenzene, adjusted for lone-pair,  fylin" },
    { "type" : "IGR1",  "params" : { "sigma" : 3.9912262572687203,  "epsilon" : 0.52 },  "memo" : "IODB, iodobenzene, adjusted for lone-pair,  fylin" },
@@ -285,5 +285,7 @@
    { "type" : "CN8B",  "params" : { "sigma" : 3.5814128469241635,  "epsilon" : 0.056 },  "memo" : "" },
    { "type" : "CN9",  "params" : { "sigma" : 3.6348667700125845,  "epsilon" : 0.078 },  "memo" : "" },
    { "type" : "P",  "params" : { "sigma" : 3.8308644880034586,  "epsilon" : 0.585 },  "memo" : "" },
-   { "type" : "P2",  "params" : { "sigma" : 3.8308644880034586,  "epsilon" : 0.585 },  "memo" : "" }
+   { "type" : "P2",  "params" : { "sigma" : 3.8308644880034586,  "epsilon" : 0.585 },  "memo" : "" },
+   { "type" : "P3",  "params" : { "sigma" : 3.8308644880034586,  "epsilon" : 0.585 },  "memo" : "nad/ppi, jjp1/adm jr." },
+   { "type" : "P4",  "params" : { "sigma" : 3.8308644880034586,  "epsilon" : 0.585 },  "memo" : "for PPI2, adm jr." }
 ]
