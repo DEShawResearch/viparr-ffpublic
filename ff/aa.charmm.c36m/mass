@@ -339,6 +339,8 @@
    { "type" : "ON6B",  "params" : { "amu" : 15.9994 },  "memo" : "Nucleic acid ribose ring oxygen" },
    { "type" : "P",  "params" : { "amu" : 30.974 },  "memo" : "phosphorus" },
    { "type" : "P2",  "params" : { "amu" : 30.974 },  "memo" : "phosphorus, adm, 2011 DNA update" },
+   { "type" : "P3",  "params" : { "amu" : 30.974 },  "memo" : "pyrophosphate phosphorus" },
+   { "type" : "P4",  "params" : { "amu" : 30.974 },  "memo" : "protonated pyrophosphate phosphorus" },
    { "type" : "C3",  "params" : { "amu" : 12.011 },  "memo" : "cyclopropane carbon" },
    { "type" : "CLAL",  "params" : { "amu" : 35.453 },  "memo" : "Chlorine Atom" },
    { "type" : "HF1",  "params" : { "amu" : 1.008 },  "memo" : "Aliphatic H on fluorinated C" },

@@ -526,6 +526,8 @@
    { "type" : "HGP1 OG311 PG1",  "params" : { "r0" : 2.35,  "fc" : 40.0 },  "memo" : "NA MP_1, ADM Jr.  ! Reorganization:MP_1" },
    { "type" : "OG2P1 SG3O1 OG2P1",  "params" : { "r0" : 2.45,  "fc" : 35.0 },  "memo" : "LIPID methylsulfate" },
    { "type" : "FGP1 ALG1 FGP1",  "params" : { "r0" : 2.81855,  "fc" : 15.0 },  "memo" : "aluminum tetrafluoride, ALF4, tetrahedral" },
+   { "type" : "HGA3 CG334 NG3P2",  "params" : { "r0" : 2.101,  "fc" : 35.0 },  "memo" : "nc2, fylin/kenno" },
+   { "type" : "CG334 NG3P2 HGP2",  "params" : { "r0" : 2.074,  "fc" : 27.0 },  "memo" : "nc2 , fylin/kenno" },
    { "type" : "CN7 CN8 CN8",  "params" : { "r0" : 2.561,  "fc" : 11.16 },  "memo" : "alkane" },
    { "type" : "CN8 CN7 CN8",  "params" : { "r0" : 2.561,  "fc" : 11.16 },  "memo" : "alkane" },
    { "type" : "CN8 CN8 CN8",  "params" : { "r0" : 2.561,  "fc" : 11.16 },  "memo" : "alkane" },
@@ -569,5 +571,11 @@
    { "type" : "CN7B CN7 HN7",  "params" : { "r0" : 2.179,  "fc" : 22.53 },  "memo" : "" },
    { "type" : "CN8 ON2 P",  "params" : { "r0" : 2.33,  "fc" : 35.0 },  "memo" : "DMP, adm jr." },
    { "type" : "CN8 ON2 P2",  "params" : { "r0" : 2.33,  "fc" : 35.0 },  "memo" : "DMP, adm jr., adm 2011 DNA update" },
-   { "type" : "CN7B CN7 CN8",  "params" : { "r0" : 2.561,  "fc" : 11.16 },  "memo" : "" }
+   { "type" : "CN7B CN7 CN8",  "params" : { "r0" : 2.561,  "fc" : 11.16 },  "memo" : "" },
+   { "type" : "P ON2 P",  "params" : { "r0" : 2.8,  "fc" : -40.0 },  "memo" : "nad/ppi, jjp1/adm jr. 7/95" },
+   { "type" : "CN9 ON2 P3",  "params" : { "r0" : 2.33,  "fc" : 35.0 },  "memo" : "nad/ppi, jjp1/adm jr. 7/95" },
+   { "type" : "P ON2 P3",  "params" : { "r0" : 2.8,  "fc" : -40.0 },  "memo" : "nad/ppi, jjp1/adm jr. 7/95" },
+   { "type" : "P ON2 P4",  "params" : { "r0" : 3.15,  "fc" : 40.0 },  "memo" : "PPI2, from nad/ppi, adm jr., 7/01" },
+   { "type" : "P3 ON2 P3",  "params" : { "r0" : 2.8,  "fc" : -40.0 },  "memo" : "nad/ppi, jjp1/adm jr. 7/95" },
+   { "type" : "HN4 ON4 P4",  "params" : { "r0" : 2.35,  "fc" : 40.0 },  "memo" : "PPI2, from MP_1, adm jr., 7/01" }
 ]

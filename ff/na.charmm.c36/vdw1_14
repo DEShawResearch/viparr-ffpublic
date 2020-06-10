@@ -73,6 +73,7 @@
    { "type" : "CN9",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "" },
    { "type" : "CN6",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT1" },
    { "type" : "CN7E",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT1" },
+   { "type" : "CT2P",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT2, mj" },
    { "type" : "CN7C",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT1" },
    { "type" : "CN7D",  "params" : { "sigma" : 3.385415128933289,  "epsilon" : 0.01 },  "memo" : "equivalent to protein CT1" }
 ]

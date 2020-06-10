@@ -3,6 +3,8 @@
    { "type" : "HX",  "params" : { "amu" : 1.008 },  "memo" : "hydroxide hydrogen" },
    { "type" : "OT",  "params" : { "amu" : 15.9994 },  "memo" : "TIPS3P WATER OXYGEN" },
    { "type" : "OX",  "params" : { "amu" : 15.9994 },  "memo" : "hydroxide oxygen" },
+   { "type" : "HPER",  "params" : { "amu" : 1.008 },  "memo" : "H of H2O2" },
+   { "type" : "OPER",  "params" : { "amu" : 15.999 },  "memo" : "O of H2O2" },
    { "type" : "Li+",  "params" : { "amu" : 6.941 },  "memo" : "Lithium ion" },
    { "type" : "Na+",  "params" : { "amu" : 22.98977 },  "memo" : "Sodium Ion" },
    { "type" : "Mg2+",  "params" : { "amu" : 24.305 },  "memo" : "Magnesium Ion" },

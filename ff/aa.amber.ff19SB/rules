@@ -1,0 +1,27 @@
+{
+    "info" : ["amber ff19SB protein forcefield",
+              "Tian et al. (2020) J. Chem. Theory Comput. 16, 628-552"], 
+    "vdw_func" : "LJ12_6_sig_epsilon", 
+    "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC", 
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        0.8333
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        0.5
+    ], 
+    "plugins" : [
+        "exclusions",
+        "mass",
+        "bonds",
+        "angles",
+        "vdw1",
+        "propers",
+        "impropers",
+        "cmap"
+    ]
+}

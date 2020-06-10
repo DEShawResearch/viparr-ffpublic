@@ -5,7 +5,7 @@
         "Denning et al. (2011), J. Comp. Chem. 32, 1929-1943",
         "Foloppe et al. (2000), J. Comp. Chem. 21, 86-104",
         "MacKerell et al. (2000), J. Comp. Chem. 21, 105-120",
-        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul17.tgz"
+        "Parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_jul19.tgz"
     ], 
     "vdw_func" : "lj12_6_sig_epsilon", 
     "vdw_comb_rule" : "arithmetic/geometric", 
