@@ -3,7 +3,7 @@ eval "$(garden-exec)"
 set -e
 
 name=viparr-ffpublic
-version=1.0.8
+version=1.0.9
 
 genmodules() {
     cat << EOF > $GARDENDIR/data
