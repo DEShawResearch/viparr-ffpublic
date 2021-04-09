@@ -62,7 +62,7 @@
    { "type" : "K",  "params" : { "sigma" : 4.736,  "epsilon" : 0.000328 },  "memo" : "K+ Aqvist JPC 1990,94,8021. (adapted)" },
    { "type" : "Rb",  "params" : { "sigma" : 5.267,  "epsilon" : 0.00017 },  "memo" : "Rb+ Aqvist JPC 1990,94,8021. (adapted)" },
    { "type" : "Cs",  "params" : { "sigma" : 6.049,  "epsilon" : 0.0000806 },  "memo" : "Cs+ Aqvist JPC 1990,94,8021. (adapted)" },
-   { "type" : "MG",  "params" : { "sigma" : 3.065,  "epsilon" : 0.003 },  "memo" : "" },
+   { "type" : "MG",  "params" : { "sigma" : 3.065,  "epsilon" : 0.003 },  "memo" : "optimized for desamber" },
    { "type" : "C0",  "params" : { "sigma" : 3.052,  "epsilon" : 0.459789 },  "memo" : "Ca2+ Aqvist JPC 1990,94,8021.(adapted)" },
    { "type" : "Zn",  "params" : { "sigma" : 1.960,  "epsilon" : 0.0125 },  "memo" : "Zn2+, Merz,PAK, JACS,113,8262,(1991)" },
    { "type" : "F",  "params" : { "sigma" : 3.118,  "epsilon" : 0.061 },  "memo" : "Gough et al. JCC 13,(1992),963." },
