@@ -1,0 +1,27 @@
+{
+    "info" : [ "DES-Amber DNA parameters (charge scale factor 0.9)", "Tucker et al. (2022), J. Phys. Chem. B" ],
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "nbfix_identifier" : "des-amber",
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        0.8333
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        0.5
+    ], 
+    "plugins" : [
+        "bonds",
+        "angles",
+        "propers",
+        "impropers",
+        "vdw1",
+        "vdw2",
+        "exclusions",
+        "mass"
+    ]
+}
