@@ -1,0 +1,5 @@
+[
+   { "type" : ["OP", "OW"],  "params" : { "sigma" : 3.20,  "epsilon" : 0.21681 },  "memo" : "OP-OW override" },
+   { "type" : ["CA", "OW"],  "params" : { "sigma" : 3.2825,  "epsilon" : 0.1000 },  "memo" : "Adenine override to STD Amber" },
+   { "type" : ["MG", "OW"],  "params" : { "sigma" : 2.90,  "epsilon" : 0.025914 },  "memo" : "MG-OW override" }
+]

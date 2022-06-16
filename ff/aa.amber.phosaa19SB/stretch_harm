@@ -1,0 +1,22 @@
+[
+   { "type" : "OP P",  "params" : { "r0" : 1.48,  "fc" : 525.0 },  "memo" : "from O2-P" },
+   { "type" : "HO OQ",  "params" : { "r0" : 0.96,  "fc" : 553.0 },  "memo" : "from HO-OH" },
+   { "type" : "OQ P",  "params" : { "r0" : 1.61,  "fc" : 230.0 },  "memo" : "from OH-P" },
+   { "type" : "OR P",  "params" : { "r0" : 1.61,  "fc" : 230.0 },  "memo" : "from OS-P" },
+   { "type" : "C OR",  "params" : { "r0" : 1.323,  "fc" : 450.0 },  "memo" : "from C -OS" },
+   { "type" : "CT OR",  "params" : { "r0" : 1.41,  "fc" : 320.0 },  "memo" : "from CT-OS" },
+   { "type" : "OT P",  "params" : { "r0" : 1.48,  "fc" : 525.0 },  "memo" : "# repeat parameters for TYR 2-" },
+   { "type" : "OV P",  "params" : { "r0" : 1.61,  "fc" : 230.0 },  "memo" : "" },
+   { "type" : "C OV",  "params" : { "r0" : 1.323,  "fc" : 450.0 },  "memo" : "" },
+   { "type" : "CT OV",  "params" : { "r0" : 1.41,  "fc" : 320.0 },  "memo" : "" },
+   { "type" : "OX P",  "params" : { "r0" : 1.48,  "fc" : 525.0 },  "memo" : "# repeat parameters for SER/THR 2-" },
+   { "type" : "OZ P",  "params" : { "r0" : 1.61,  "fc" : 230.0 },  "memo" : "" },
+   { "type" : "C OZ",  "params" : { "r0" : 1.323,  "fc" : 450.0 },  "memo" : "" },
+   { "type" : "CT OZ",  "params" : { "r0" : 1.41,  "fc" : 320.0 },  "memo" : "" },
+   { "type" : "CG CT",  "params" : { "r0" : 1.51,  "fc" : 317.0 },  "memo" : "Y1P/PTR C Gamma (CA) from parm99.dat" },
+   { "type" : "CA CG",  "params" : { "r0" : 1.4,  "fc" : 469.0 },  "memo" : "Y1P/PTR C Gamma (CA) from parm99.dat" },
+   { "type" : "3C OZ",  "params" : { "r0" : 1.41,  "fc" : 320.0 },  "memo" : "from CT-OS" },
+   { "type" : "3C OR",  "params" : { "r0" : 1.41,  "fc" : 320.0 },  "memo" : "from CT-OS" },
+   { "type" : "2C OR",  "params" : { "r0" : 1.41,  "fc" : 320.0 },  "memo" : "from CT-OS" },
+   { "type" : "2C OZ",  "params" : { "r0" : 1.41,  "fc" : 320.0 },  "memo" : "from CT-OS" }
+]
